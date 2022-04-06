@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Cypress/Playwright Automation
 - 💞️ I’m looking to collaborate on Automation projects
 - 📫 How to reach me 
-- graham.davidson@songtradr.com
+- E: gdavidson@insider.com
 - LinkedIn https://www.linkedin.com/in/graham-davidson-67695761/
 
 <!---
